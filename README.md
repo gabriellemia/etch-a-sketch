@@ -1,2 +1,2 @@
 # etch-a-sketch
-create a usable sketch pad in the browser
+Create a usable sketch pad/etch-a-sketch in the browser using html,javascript and css.
